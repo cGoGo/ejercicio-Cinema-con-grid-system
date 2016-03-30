@@ -1,0 +1,15 @@
+/* Header */
+.container-fluid {
+	border: 1px solid green;
+}
+.header {
+	display: inline-block;
+}
+.buscador {
+	border: 1px solid gray;
+}
+
+/* Seccion principal */
+.principal {
+	background-image: url(img/banner.jpg);
+}
