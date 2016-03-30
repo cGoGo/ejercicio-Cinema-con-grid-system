@@ -1,15 +1,21 @@
 /* Header */
-.container-fluid {
-	border: 1px solid green;
-}
 .header {
 	display: inline-block;
 }
 .buscador {
 	border: 1px solid gray;
 }
+header img {
+	width: 30%;
+	min-width: 300px;
+}
 
 /* Seccion principal */
 .principal {
-	background-image: url(img/banner.jpg);
+	width: 100%;
+	min-width: 960px;
+}
+.principal img {
+	width: 100%;
+	min-width: 960px;
 }
