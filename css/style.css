@@ -146,10 +146,21 @@ iframe {
 	text-decoration: none;
 }
 /*Seccion afiche 2*/
+.cartelera2 {
+	margin-bottom: 40px;
+}
 .afiche2 {
 	width: 220px;
 	height: 300px;
 }
 
-
-
+/* Footer */
+footer {
+	background: #FAFAFA;
+}
+.creditos {
+	padding: 20px 0;
+}
+.rrss {
+	font-size: 14px;
+}
